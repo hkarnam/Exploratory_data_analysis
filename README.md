@@ -1,4 +1,4 @@
-                                                  Uber - New York city 
+                                           Uber - New York city 
 
 The Dataset has been taken from Kaggel open data source and has data on Uber pickups in the city of New York. The data is dispersed over 7 different csv files containing data information of different months. 
 
